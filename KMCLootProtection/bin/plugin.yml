@@ -1,0 +1,5 @@
+name: KMCLootProtection
+main: me.rigbot.KMCLootProtection.Main
+version: 1.0
+description: Loot Protection for KMC
+author: RigBot & vislo
